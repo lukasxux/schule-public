@@ -34,8 +34,8 @@
          1) Man darf mehrere zitieren, wenn man weitere Beispiele gibt, diese im Text markieren.
          2) wirkungsabsichten lernen, Stilfiguren mit den selben wirkungsabsichten zusammenfassen
          3) Je mehr desto besser
-   4) Stil:
-      1) Standardsprache, Slang, Umgangssprache.
+      4) Stil:
+         1) Standardsprache, Slang, Umgangssprache.
 
 ## O3 Intention/en (Absicht vom Autor)
 
