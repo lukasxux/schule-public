@@ -1,4 +1,52 @@
 # Mathe Schularbeit
+# Inhaltsverzeichnis
+
+## 1. Statistik
+### 1.1 Häufigkeiten
+- [1.1.1 Absolute Häufigkeit](#absolute-häufigkeit)
+- [1.1.2 Relative Häufigkeit](#relative-häufigkeit)
+- [1.1.3 Prozentuelle Häufigkeit](#prozentuelle-häufigkeit)
+- [1.1.4 Häufigkeitssumme](#häufigkeitssumme)
+
+### 1.2 Kennzahlen statistischer Verteilung
+- [1.2.1 Arithmetisches Mittel (Durchschnitt)](#arithmetisches-mittel-durchschnitt)
+- [1.2.2 Median](#median)
+- [1.2.3 Quartil](#uartil)
+
+### 1.3 Streuungsmaße
+- [1.3.1 Spannweite](#spannweite)
+- [1.3.2 Quartilsabstand (Interquartilsabstand)](#quartilsabstand-interquartilsabstand)
+- [1.3.3 Varianz](#varianz)
+- [1.3.4 Standardabweichung](#standardabweichung)
+
+### 1.4 Boxplot
+- [1.4.1 Ablesen](#ablesen)
+- [1.4.2 Erstellen (Mathcad)](#erstellen-mathcad)
+
+## 2. Kombinatorik
+- [2.1 Permutation (Anordnung)](#permutation-anordnung)
+  - [2.1.1 Ohne Wiederholung](#ohne-wiederholung)
+  - [2.1.2 Mit Wiederholung](#-mit-wiederholung)
+- [2.2 Variation (Auswahl)](#variation-auswahl)
+  - [2.2.1 Ohne Wiederholung](#ohne-wiederholung)
+  - [2.2.2 Mit Wiederholung](#-mit-wiederholung)
+- [2.3 Kombination](#kombination)
+
+## 3. Wahrscheinlichkeitsrechnung
+### 3.1 Grundlagen
+- [3.1.1 Laplace-Experiment](#laplace-experiment)
+- [3.1.2 Multiplikationssatz](#multiplikationssatz)
+- [3.1.3 Baumdiagramm](#baumdiagramm)
+
+### 3.2 Zufallsvariablen
+- [3.2.1 Wahrscheinlichkeitsfunktion](#wahrscheinlichkeitsfunktion)
+- [3.2.2 Verteilungsfunktion](#verteilungsfunktion)
+
+### 3.3 Wichtige Verteilungen
+- [3.3.1 Binomialverteilung](#binomialverteilung)
+- [3.3.2 Hypergeometrische Verteilung](#hypergeometrische-verteilung)
+- [3.3.3 Poisson-Verteilung](#poisson-verteilung)
+- [3.3.4 Normalverteilung](#normalverteilung)
 
 ## Statistik
 
