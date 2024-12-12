@@ -218,3 +218,19 @@ $s = \sqrt{\frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2}$
     - Geogebra: 
         - $gl1: Normal(μ, x, Zufallswert) = Wahrscheinlichkeit vom Zufallswert$
         - $NLöse(gl1)$
+- **μ berechnen** mithilfe von 
+    - σ, Zufallszahl, Wahrscheinlichkeit vom Zufallswert, x.. Vraiable für μ
+    - $gl1: Normal(x, σ, Zufallswert) = Wahrscheinlichkeit vom Zufallswert$
+    - $NLöse(gl1)$
+- **Stichproben und Stichprobenmittelwert**
+- Stichprobenmittelwerte sind normalverteilt, wenn Grundgesammtheit normal verteilt ist
+- Stichprobenmittelwerrte streuen um den gleichen Erwartungswert wie ursprungsdaten
+- streuen weniger als Originaldaten -> Varianz wird mit zunehmenden Stichproben kleiner
+- $μ_x = μ$
+- $σ_x = \frac{σ}{\sqrt{n}} $
+- $μ_x$ .. μ von Stichproben
+- $σ_x$ .. σ von Stichproben
+- $n$ .. Werte in Stichprobe
+
+- **Zufallsstreuung**
+- 
