@@ -1,0 +1,12 @@
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.deps.json
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.dll
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.pdb
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfo.cs
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.dll
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\refint\SPG_Fachtheorie.Aufgabe1.dll
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.pdb
+C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\ref\SPG_Fachtheorie.Aufgabe1.dll

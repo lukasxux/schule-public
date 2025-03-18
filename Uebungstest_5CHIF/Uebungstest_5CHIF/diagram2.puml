@@ -1,0 +1,54 @@
+@startuml
+hide empty methods
+
+enum VehicleType << Enum >> {
+    PassengerCar
+    Motorcycle
+}
+
+entity Customer << Entity >>  {
+    Firstname : String <<nn>>
+    Lastname : String <<nn>>
+    Email : String <<nn>>
+    RegistrationDate : LocalDateTime <<nn>>
+    Vehicles : List<Vehicle> <<nn>>
+}
+
+entity Vehicle << Entity >> {
+    Numberplate : String <<nn>>
+    Customer : Customer <<nn>>
+    VehicleType : VehicleType <<nn>>
+    Stickers : List<Sticker> <<nn>>
+    MotValidUntil : LocalDate <<nn>>
+    TollPayments : List<TollPayment> <<nn>>
+}
+
+Vehicle --> Customer
+Vehicle -- VehicleType
+
+
+
+entity Sticker << Entity >> {
+    Vehicle : Vehicle <<nn>>
+    PurchaseDate : LocalDateTime <<nn>>
+    ValidFrom : LocalDateTime <<nn>>
+    DaysValid : Integer <<nn>>
+    Price : Decimal <<nn>>
+}
+Sticker --> Vehicle
+
+entity TollStation << Entity >> {
+    Name : String <<nn>>
+}
+
+entity TollPayment  << Entity >>{
+    Vehicle : Vehicle <<nn>>
+    TollStation : TollStation <<nn>>
+    Price : Decimal <<nn>>
+    Timestamp : LocalDateTime <<nn>>
+}
+
+TollPayment --> Vehicle
+TollPayment --> TollStation
+
+@enduml

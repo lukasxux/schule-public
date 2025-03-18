@@ -1,0 +1,13 @@
+extends: default
+page:
+  margin: [25mm, 20mm, 20mm, 20mm]
+  numbering:
+    start-at: toc  
+footer:
+  recto:
+    right:
+      content: '{page-number} von {page-count}'
+  verso:
+    left:
+      content: '{page-number} von {page-count}'
+

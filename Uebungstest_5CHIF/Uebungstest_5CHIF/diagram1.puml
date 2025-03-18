@@ -1,0 +1,58 @@
+@startuml
+hide empty methods
+
+class Phone << (R,#FFEECC) RichType >> {
+    value: String <<nn>>
+}
+
+class Address << (V,#CCEEFF) ValueObject >> {
+    + street : String <<nn>>
+    + zip : String <<nn>>
+    + city : String <<nn>>
+}
+
+abstract class Person {
+    + firstname : String <<nn>>
+    + lastname : String <<nn>>
+    + email : String <<nn>>
+    + phone : Phone <<nn>>
+}
+
+Person --> Phone
+
+entity Patient << Entity >> {
+    Address : Address <<nn>>
+}
+
+Patient -up-|> Person
+Patient --> Address
+
+entity Appointment << Entity >> {
+    + date : LocalDate <<nn>>
+    + time : LocalTime <<nn>>
+    + patient : Patient <<nn>>
+    + appointmentStates : List<AppointmentState>  <<nn>>
+}
+
+Appointment --> Patient
+
+enum AppointmentStateType << Enum >> {
+    Pending <<P>>
+    Confirmed <<C>>
+    Deleted <<D>>
+}
+
+entity AppointmentState << (V,#CCEEFF) ValueObject >> {
+    + appointment : Appointment <<nn>>
+    + created : DateTime <<nn>>
+    + note : String
+    + type : AppointmentStateType <<nn>>
+}
+
+AppointmentState --* Appointment : contains
+AppointmentState --> AppointmentStateType
+
+
+
+
+@enduml
