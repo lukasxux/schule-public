@@ -10,3 +10,16 @@ C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Ang
 C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\refint\SPG_Fachtheorie.Aufgabe2.dll
 C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.pdb
 C:\Users\lukas\Downloads\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\ref\SPG_Fachtheorie.Aufgabe2.dll
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.deps.json
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\bin\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.csproj.AssemblyReference.cache
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfoInputs.cache
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfo.cs
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.sourcelink.json
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\refint\SPG_Fachtheorie.Aufgabe2.dll
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\Github\schule-public\Uebungstest_5CHIF\Uebungstest_5CHIF\SPG_Fachtheorie_Angabe\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net8.0\ref\SPG_Fachtheorie.Aufgabe2.dll

@@ -18,8 +18,12 @@ namespace SPG_Fachtheorie.Aufgabe2.Services
         {
             _db = db;
         }
-
-        public record SaleDto(string CustomerFirstname, string CustomerLastname, string VehicleNumberplate, DateTime PurchaseDate, decimal Price, VehicleType Type);
+        public enum PurchaseType
+        {
+            Sticker,
+            TollPayment
+        }
+        public record SaleDto(string CustomerFirstname, string CustomerLastname, string VehicleNumberplate, DateTime PurchaseDate, decimal Price, PurchaseType Type);
 
         public Dictionary<string, List<SaleDto>> GetSales(int year)
         {
@@ -31,7 +35,7 @@ namespace SPG_Fachtheorie.Aufgabe2.Services
                     x.Vehicle.Numberplate,
                     x.PurchaseDate,
                     x.Price,
-                    x.Vehicle.VehicleType
+                    PurchaseType.Sticker
                     ))
                 .ToList();
 
@@ -43,7 +47,7 @@ namespace SPG_Fachtheorie.Aufgabe2.Services
                     x.Vehicle.Numberplate,
                     x.PurchaseDate,
                     x.Price,
-                    x.Vehicle.VehicleType
+                    PurchaseType.Sticker
                     ))
                 .ToList();
 
@@ -55,7 +59,7 @@ namespace SPG_Fachtheorie.Aufgabe2.Services
                     x.Vehicle.Numberplate,
                     x.Timestamp,
                     x.Price,
-                    x.Vehicle.VehicleType
+                    PurchaseType.TollPayment
                     ))
                 .ToList();
 
@@ -67,7 +71,7 @@ namespace SPG_Fachtheorie.Aufgabe2.Services
                     x.Vehicle.Numberplate,
                     x.Timestamp,
                     x.Price,
-                    x.Vehicle.VehicleType
+                    PurchaseType .TollPayment
                     ))
                .ToList();
 

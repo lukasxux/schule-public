@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gIRaNmA7aw=",
+  "dgSpecHash": "3p6hb/3GDW4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj",
+  "projectFilePath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

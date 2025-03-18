@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SPG_Fachtheorie.Aufgabe3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb206b30137aa31167e7c47c8349a511351061c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SPG_Fachtheorie.Aufgabe3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SPG_Fachtheorie.Aufgabe3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

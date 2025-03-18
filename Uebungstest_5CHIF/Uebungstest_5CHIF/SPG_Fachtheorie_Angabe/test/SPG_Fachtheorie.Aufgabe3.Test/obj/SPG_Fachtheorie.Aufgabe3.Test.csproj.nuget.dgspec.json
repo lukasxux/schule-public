@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj": {}
+    "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj": {
+    "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+        "projectUniqueName": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
         "projectName": "SPG_Fachtheorie.Aufgabe2",
-        "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+        "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
+        "outputPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj": {
+    "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
+        "projectUniqueName": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
         "projectName": "SPG_Fachtheorie.Aufgabe3",
-        "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
+        "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\obj\\",
+        "outputPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj": {
-                "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj"
+              "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj": {
+                "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj": {
+    "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj",
+        "projectUniqueName": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj",
         "projectName": "SPG_Fachtheorie.Aufgabe3.Test",
-        "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj",
+        "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\obj\\",
+        "outputPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,8 +183,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj": {
-                "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj"
+              "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj": {
+                "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj"
               }
             }
           }

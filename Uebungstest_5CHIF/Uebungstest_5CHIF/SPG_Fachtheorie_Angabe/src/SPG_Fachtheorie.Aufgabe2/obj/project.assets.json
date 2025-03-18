@@ -1315,11 +1315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+      "projectUniqueName": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
       "projectName": "SPG_Fachtheorie.Aufgabe2",
-      "projectPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+      "projectPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
+      "outputPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",

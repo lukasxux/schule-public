@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6eorVLfLQdQ=",
+  "dgSpecHash": "4VEgomjtYPg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
+  "projectFilePath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",

@@ -12,12 +12,11 @@ namespace SPG_Fachtheorie.Aufgabe1.Model
         protected Appointment() { }
 #pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.
 
-        public Appointment(DateTime date, DateTime time, Patient patient, List<AppointmentState> appointmentStates)
+        public Appointment(DateTime date, DateTime time, Patient patient)
         {
             Date = date;
             Time = time;
             Patient = patient;
-            AppointmentStates = appointmentStates;
         }
 
         public DateTime Date { get; set; }

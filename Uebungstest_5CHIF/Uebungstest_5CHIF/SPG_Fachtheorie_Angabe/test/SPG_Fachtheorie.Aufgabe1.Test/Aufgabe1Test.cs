@@ -37,11 +37,66 @@ namespace SPG_Fachtheorie.Aufgabe1.Test
         [Fact]
         public void PersistRichTypesSuccessTest()
         {
-
+            using var db = GetEmptyDbContext();
+            var patient = new Patient(
+                firstname: "Lukas",
+                lastname: "Hainzl",
+                email: "Lukas.hainzl2004@gmail.com",
+                phone: new Phone(
+                    value: "123456789"
+                    ),
+                address: new Address(
+                    street: "Liesing",
+                    zip: "1230",
+                    city: "Wien"
+                    )
+                );
+            db.Patients.Add( patient );
+            db.SaveChanges();
+            db.ChangeTracker.Clear();
+            
+            Assert.True( db.Patients.Include(a => a.Phone).First().Phone.Value == "123456789");
         }
         [Fact]
         public void PersistEnumSuccessTest()
         {
+            using var db = GetEmptyDbContext();
+            var patient = new Patient(
+                firstname: "Lukas",
+                lastname: "Hainzl",
+                email: "Lukas.hainzl2004@gmail.com",
+                phone: new Phone(
+                    value: "123456789"
+                    ),
+                address: new Address(
+                    street: "Liesing",
+                    zip: "1230",
+                    city: "Wien"
+                    )
+                );
+            db.Patients.Add(patient);
+            db.SaveChanges();
+
+            var appointment = new Appointment(
+                    date: DateTime.Now,
+                    time: DateTime.Now,
+                    patient: patient
+                    );
+            AppointmentState appointmentState = new AppointmentState(
+                created: DateTime.Now,
+                type: AppointmentStateType.Confirmed,
+                note: null
+                );
+
+            appointment.AppointmentStates.Add( appointmentState );
+            db.Appointments.Add( appointment );
+            db.SaveChanges();
+            db.ChangeTracker.Clear();
+            Assert.True(db.Appointments
+                .Include(a => a.AppointmentStates)
+                .First()
+                .AppointmentStates.First().Type == AppointmentStateType.Confirmed);
+
 
         }
 
@@ -54,9 +109,9 @@ namespace SPG_Fachtheorie.Aufgabe1.Test
             db.Patients.Add(p);
             db.SaveChanges();
 
-            Appointment b = new Appointment(DateTime.Now.AddDays(2), DateTime.Now, p, new List<AppointmentState>());
+            Appointment b = new Appointment(DateTime.Now.AddDays(2), DateTime.Now, p);
 
-            Appointment a = new Appointment(DateTime.Now, DateTime.Now, p, new List<AppointmentState>());
+            Appointment a = new Appointment(DateTime.Now, DateTime.Now, p);
             a.AppointmentStates.Add(new AppointmentState(DateTime.Now, AppointmentStateType.Confirmed, null));
             db.Appointments.Add(a);
             db.Appointments.Add(b);

@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\",
+  "WorkspaceRootPath": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9457523-B00D-4285-B987-DF04185274C1}|src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj|c:\\users\\lukas\\downloads\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe3\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9457523-B00D-4285-B987-DF04185274C1}|src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe3\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE43F326-C4E9-43C9-A4BA-E9FF2B2262BA}|test\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\test\\spg_fachtheorie.aufgabe2.test\\stickerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE43F326-C4E9-43C9-A4BA-E9FF2B2262BA}|test\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj|solutionrelative:test\\spg_fachtheorie.aufgabe2.test\\stickerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9457523-B00D-4285-B987-DF04185274C1}|src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj|c:\\users\\lukas\\downloads\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe3\\commands\\updatevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9457523-B00D-4285-B987-DF04185274C1}|src\\SPG_Fachtheorie.Aufgabe3\\SPG_Fachtheorie.Aufgabe3.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe3\\commands\\updatevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe1\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe1\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5FBC62E-4998-4C36-BCB5-4C69F3E5EA68}|test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj|c:\\users\\lukas\\downloads\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\test\\spg_fachtheorie.aufgabe3.test\\vehiclescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe1\\model\\appointmentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe1\\model\\appointmentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E087A0AF-D2C6-4182-9D74-D5F4D294F7DF}|src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe2\\services\\stickerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E087A0AF-D2C6-4182-9D74-D5F4D294F7DF}|src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe2\\services\\stickerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\src\\spg_fachtheorie.aufgabe1\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C11A7-142F-433D-A734-762A0911BC78}|src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj|solutionrelative:src\\spg_fachtheorie.aufgabe1\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437B53DC-BA0A-4C7D-AB66-62D28895D7C7}|test\\SPG_Fachtheorie.Aufgabe1.Test\\SPG_Fachtheorie.Aufgabe1.Test.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\test\\spg_fachtheorie.aufgabe1.test\\aufgabe1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437B53DC-BA0A-4C7D-AB66-62D28895D7C7}|test\\SPG_Fachtheorie.Aufgabe1.Test\\SPG_Fachtheorie.Aufgabe1.Test.csproj|solutionrelative:test\\spg_fachtheorie.aufgabe1.test\\aufgabe1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FBC62E-4998-4C36-BCB5-4C69F3E5EA68}|test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj|c:\\github\\schule-public\\uebungstest_5chif\\uebungstest_5chif\\spg_fachtheorie_angabe\\test\\spg_fachtheorie.aufgabe3.test\\vehiclescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5FBC62E-4998-4C36-BCB5-4C69F3E5EA68}|test\\SPG_Fachtheorie.Aufgabe3.Test\\SPG_Fachtheorie.Aufgabe3.Test.csproj|solutionrelative:test\\spg_fachtheorie.aufgabe3.test\\vehiclescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateVehicleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\Commands\\UpdateVehicleCommand.cs",
-              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe3\\Commands\\UpdateVehicleCommand.cs",
-              "ToolTip": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\Commands\\UpdateVehicleCommand.cs",
-              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe3\\Commands\\UpdateVehicleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:12:35.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "VehiclesControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
               "RelativeDocumentMoniker": "test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
-              "ToolTip": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
               "RelativeToolTip": "test\\SPG_Fachtheorie.Aufgabe3.Test\\VehiclesControllerTests.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowEYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:20:08.761Z",
+              "WhenOpened": "2025-03-18T18:59:47.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehiclesController.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\Controllers\\VehiclesController.cs",
-              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe3\\Controllers\\VehiclesController.cs",
-              "ToolTip": "C:\\Users\\lukas\\Downloads\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe3\\Controllers\\VehiclesController.cs",
-              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe3\\Controllers\\VehiclesController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAABAAAAAAAAAA==",
+              "Title": "StickerServiceTests.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe2.Test\\StickerServiceTests.cs",
+              "RelativeDocumentMoniker": "test\\SPG_Fachtheorie.Aufgabe2.Test\\StickerServiceTests.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe2.Test\\StickerServiceTests.cs",
+              "RelativeToolTip": "test\\SPG_Fachtheorie.Aufgabe2.Test\\StickerServiceTests.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwHEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:41:03.347Z",
+              "WhenOpened": "2025-03-18T18:45:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentState.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\AppointmentState.cs",
+              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\AppointmentState.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\AppointmentState.cs",
+              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\AppointmentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:01:47.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\Entity.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\Entity.cs",
+              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:04:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StickerService.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\Services\\StickerService.cs",
+              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe2\\Services\\StickerService.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe2\\Services\\StickerService.cs",
+              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe2\\Services\\StickerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:50:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\Appointment.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\src\\SPG_Fachtheorie.Aufgabe1\\Model\\Appointment.cs",
+              "RelativeToolTip": "src\\SPG_Fachtheorie.Aufgabe1\\Model\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:34:13.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aufgabe1Test.cs",
+              "DocumentMoniker": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe1.Test\\Aufgabe1Test.cs",
+              "RelativeDocumentMoniker": "test\\SPG_Fachtheorie.Aufgabe1.Test\\Aufgabe1Test.cs",
+              "ToolTip": "C:\\Github\\schule-public\\Uebungstest_5CHIF\\Uebungstest_5CHIF\\SPG_Fachtheorie_Angabe\\test\\SPG_Fachtheorie.Aufgabe1.Test\\Aufgabe1Test.cs",
+              "RelativeToolTip": "test\\SPG_Fachtheorie.Aufgabe1.Test\\Aufgabe1Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:07:30.987Z",
               "EditorCaption": ""
             }
           ]
