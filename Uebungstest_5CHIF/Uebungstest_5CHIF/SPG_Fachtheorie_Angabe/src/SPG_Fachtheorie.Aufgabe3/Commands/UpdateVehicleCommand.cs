@@ -1,4 +1,4 @@
 ﻿namespace SPG_Fachtheorie.Aufgabe3.Commands
 {
-    public record UpdateVehicleCommand();
+    public record UpdateVehicleCommand(DateOnly motValidUntil);
 }

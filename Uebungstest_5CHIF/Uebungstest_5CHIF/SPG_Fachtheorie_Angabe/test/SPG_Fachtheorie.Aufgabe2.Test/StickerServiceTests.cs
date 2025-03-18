@@ -1,8 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using SPG_Fachtheorie.Aufgabe2.Infrastructure;
 using SPG_Fachtheorie.Aufgabe2.Services;
+using System.Collections.Generic;
 using System.Linq;
 using Xunit;
+using static SPG_Fachtheorie.Aufgabe2.Services.StickerService;
 
 namespace SPG_Fachtheorie.Aufgabe2.Test
 {
@@ -73,6 +75,15 @@ namespace SPG_Fachtheorie.Aufgabe2.Test
         {
             using var db = GetEmptyDbContext();
             // TODO: Schreibe Asserts auf Basis der oben angegebenen Daten.
+            db.Seed();
+            var service = new StickerService(db);
+            var sales = service.GetSales(2024);
+
+            Assert.True(sales.ContainsKey("Motorcycle"));
+            Assert.True(sales.ContainsKey("PassengerCar"));
+
+            Assert.True(sales["Motorcycle"].Count + sales["PassengerCar"].Count == 22);
+
         }
     }
 }
